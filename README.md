@@ -6,10 +6,10 @@
 
 Our dataset contains two classes of images: chipmunk & pink.
 
-<table cellpadding="0" cellspacing="0" width="100%">
+<table cellpadding="0" cellspacing="0">
   <tr>
-    <td style="height:100px;width:50px">Chipmunk<br /><img src="img/chipmunk.png"/><br /></td>
-    <td style="height:100px;width:50px">Pink<br /><img width="15%" src="img/pink.png"/><br /></td>
+    <td>Chipmunk<br /><img width="20%" src="img/chipmunk.png"/><br /></td>
+    <td>Pink<br /><img width="20%" src="img/pink.png"/><br /></td>
   </tr>
 </table>
 
