@@ -14,7 +14,7 @@ Our dataset contains two classes of images: chipmunk & pink.
 </table>
 
 All images are taken by [alex10101025](https://github.com/alex10101025),
-(LiaoWC)[https://github.com/LiaoWC], and [DavidLaiCS](https://github.com/DavidLaiCS) in NYCU. Selected raw data were uploaded to roboflow.com to do train-valid
+[LiaoWC](https://github.com/LiaoWC), and [DavidLaiCS](https://github.com/DavidLaiCS) in NYCU. Selected raw data were uploaded to roboflow.com to do train-valid
 split and then download as the dataset.
 
 Number images in dataset:
