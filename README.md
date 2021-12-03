@@ -8,8 +8,8 @@ Our dataset contains two classes of images: chipmunk & pink.
 
 <table cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td>Chipmunk<br /><img src="img/chipmunk.png" /><br /></td>
-    <td>Pink<br /><img src="img/pink.png" /><br /></td>
+    <td>Chipmunk<br /><img src="img/chipmunk.png" style="max-width:100px"/><br /></td>
+    <td>Pink<br /><img src="img/pink.png" style="max-width:100px"/><br /></td>
   </tr>
 </table>
 
